@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@import "./song";
+@import "./player";
+@import "./library";
+@import "./nav";
+
+body {
+  font-family: "Rubik", sans-serif;
+}
+
+h3,
+h4 {
+  font-weight: 400;
+  color: rgb(100, 100, 100);
+}
+
+h2 {
+  font-weight: 400;
+  font-size: 1.8rem;
+}
+
+h1,
+h2,
+h3 {
+  color: rgb(44, 44, 44);
+}
+
+.App {
+  transition: all 0.5s ease;
+}
+
+.library-active {
+  margin-left: 30%;
+}
+
+.footer-p {
+  text-align: center;
+}
