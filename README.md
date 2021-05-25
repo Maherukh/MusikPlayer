@@ -4,4 +4,4 @@ A minimilistic music player built entirely on React.js the icons are taken from 
 
 A farely new candidate, learning React.js would love to hear form you for any bugs or UI improvements.
 
-Do check out the live project hosted on ().
+Do check out the live project hosted on (musik-player.netlify.app).
