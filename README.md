@@ -27,5 +27,3 @@ $ npm install
 ```
 You are done! Now you can start editing the React project in the new folder that's created.
 ```
-
-<h2>🍰 Contribution Guidelines:</h2>
