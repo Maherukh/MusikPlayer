@@ -13,7 +13,7 @@
 <p>1. $ git clone {the url to the GitHub repo}</p>
 
 ```
-This clones the repo cd into the new folder and type $ npm install
+This clones the repo cd into the new folder and type $ npm install to install all dependencies
 ```
 
 <p>2. $ npm install</p>
