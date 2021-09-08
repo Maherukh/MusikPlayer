@@ -25,5 +25,9 @@ $ npm install
 <p>3. $ npm start</p>
 
 ```
+$ npm start
+```
+
+```
 You are done! Now you can start editing the React project in the new folder that's created.
 ```
