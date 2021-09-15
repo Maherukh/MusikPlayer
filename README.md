@@ -12,10 +12,10 @@
 
 <h2>🛠️ Installation Steps:</h2>
 
-<p>1. $ git clone {the url to the GitHub repo}</p>
+<p>1. To clone the repo cd into the new folder and type $ npm install to install all dependencies</p>
 
 ```
-This clones the repo cd into the new folder and type $ npm install to install all dependencies
+$ git clone {the url to the GitHub repo}
 ```
 
 <p>2. $ npm install</p>
